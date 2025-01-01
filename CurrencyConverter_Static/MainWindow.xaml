@@ -13,7 +13,7 @@
             <RowDefinition Height="150"></RowDefinition>
             <RowDefinition Height="100"></RowDefinition>
             <RowDefinition Height="150"></RowDefinition>
-        </Grid.RowDefinitions>
+        </Grid.RowDefinitions >
         <Border Grid.Row="2" Width="800" CornerRadius="10" BorderThickness="5">
             <Border.BorderBrush>
                 <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
