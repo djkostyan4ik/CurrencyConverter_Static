@@ -15,7 +15,7 @@ namespace CurrencyConverter_Static
 
         private void Convert_Click(object sender, RoutedEventArgs e)
         {
-            lblCurrency.Content = "";
+            lblCurrency.Content = "Hello Button Clicker";
         }
 
         private void Clear_Click(object sender, RoutedEventArgs e)
